@@ -1,0 +1,19 @@
+# 비밀 키 (.env.example 은 올려도 됨)
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Streamlit (secrets.toml 에 키가 들어갈 수 있음)
+.streamlit/secrets.toml
+
+# 에디터 / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
