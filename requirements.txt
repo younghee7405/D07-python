@@ -1,6 +1,6 @@
 # lotto.py는 파이썬 표준 라이브러리(random, tkinter, datetime)만 사용하므로
 # 별도로 설치할 외부 패키지가 없습니다.
-# weather.py는 streamlit을 사용합니다. (실행: streamlit run weather.py)
+# weather.py, rateCalc.py는 streamlit을 사용합니다. (실행: streamlit run weather.py / streamlit run rateCalc.py)
 # Python 3.10 기준 (conda create -n camp python=3.10 -y)
 
 datetime
